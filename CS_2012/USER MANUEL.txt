@@ -1,0 +1,7 @@
+To run the program you need to run the Tester class in the folder. 
+to move around the grid use the arrow keys.
+
+Backround
+The player is viking, and he enters a cave to slay the mithical creater. It is unseen so no one knows exactly
+how it looks. There are three or more babies of the myythical creature that will take annumition if you collide with them.
+There are caves with rooms that are full of fire and die instantly if walked into.
